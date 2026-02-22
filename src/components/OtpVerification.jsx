@@ -3,7 +3,7 @@ import axios from "axios";
 import { toast } from "react-toastify";
 import { useNavigate } from "react-router-dom";
 import { FaLock } from "react-icons/fa";
-import { Verify } from "./verify";
+import {Verify} from "./Verify";
 
 const backendUrl = import.meta.env.VITE_BACKEND_URL;
 
