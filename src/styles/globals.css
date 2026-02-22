@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Neon glow utilities */
+.shadow-neon-blue {
+  box-shadow: 0 0 10px #3b82f6, 0 0 20px #2563eb;
+}
+
+.font-inter {
+  font-family: 'Inter', sans-serif;
+}
+body{
+  background-color: #02223f;
+}
